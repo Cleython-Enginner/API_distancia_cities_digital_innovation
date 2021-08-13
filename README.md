@@ -2,6 +2,8 @@
 
 ## Distancia entre Cidades
 
+### O Projeto  faz uso de uma API que calcula a distancia entre cidades
+
 ## Requirements
 
 * Linux
