@@ -4,6 +4,8 @@
 
 ### O Projeto  faz uso de uma API que calcula a distancia entre cidades
 
+![Screenshot](https://github.com/Cleython-Enginner/API_distancia_cities_digital_innovation/blob/main/src/img/distancia1.jpg)
+
 ## Requirements
 
 * Linux
